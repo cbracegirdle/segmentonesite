@@ -1,0 +1,22 @@
+<svg width="189" height="115" xmlns="http://www.w3.org/2000/svg">
+
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="117" width="191" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" transform="rotate(-90 94.64134979248047,57.67355346679687) " id="svg_1">
+   <g stroke="null" stroke-width="14" stroke-miterlimit="4" id="g4834">
+    <path stroke="#ff6600" fill="none" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" id="path4801" d="m62.981034,57.618432c0,-47.0563 27.957953,-85.2029 62.179942,-85.1183c9.33702,0.084 17.121735,9.2715 17.121743,20.6044l-0.165583,20.749c0,9.5405 -4.086235,17.7052 -9.886156,20.9525c-6.91237,3.7114 -11.747249,12.5679 -11.747241,22.8848c0.000008,10.352 4.867892,19.2337 11.782539,22.942c5.764625,3.2658 9.850859,11.4305 9.850859,20.971l0.165583,20.749c-0.000008,11.3329 -7.784723,20.5199 -17.121743,20.4942c-34.221989,-0.026 -62.179942,-38.1723 -62.179942,-85.2286z"/>
+    <path stroke="#ff6600" fill="none" fill-rule="evenodd" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m110.358789,-3.202968l9.24785,20.6562" id="path4808"/>
+    <path stroke="#ff6600" fill="none" fill-rule="evenodd" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m86.66417,20.968932l20.064955,14.0625" id="path4810"/>
+    <path stroke="#ff6600" fill="none" fill-rule="evenodd" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m77.67986,57.687632l24.557114,0" id="path4812"/>
+    <path stroke="#ff6600" fill="none" fill-rule="evenodd" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" id="path4814" d="m110.358789,119.208232l9.24785,-20.6562"/>
+    <path stroke="#ff6600" fill="none" fill-rule="evenodd" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" id="path4816" d="m86.66417,95.036332l20.064955,-14.0625"/>
+   </g>
+   <path stroke="#ff6600" fill="none" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" id="path5531" d="m117.006447,142.286432c-46.284972,0 -70.006463,-36.7544 -70.006478,-84.5604c0.000015,-47.806 23.721507,-84.5604 70.006478,-84.5604"/>
+  </g>
+ </g>
+</svg>
